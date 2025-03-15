@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ba8d5p14vufqu"]
+
+[ext_resource type="Texture2D" uid="uid://3euhs15g2m0a" path="res://scenes/Itachibg.webp" id="1_biy4w"]
+
+[node name="Node" type="Node"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_biy4w")
